@@ -42,9 +42,9 @@ function ContactUs({setSelectedPage}: Props) {
                     <HText>
                         <span className="text-secondary-500">JOIN NOW</span> TO GET IN SHAPE
                     </HText>
-                    <p className="my-5">
+                    {/* <p className="my-5">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, fugiat libero? Consectetur reiciendis ullam minus? Earum, perspiciatis eligendi maxime aliquid soluta dolor alias quibusdam, sapiente perferendis rerum accusamus reprehenderit fugiat.
-                    </p>
+                    </p> */}
                 </motion.div>
 
                 {/* Form*/}
